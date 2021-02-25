@@ -169,9 +169,10 @@ nav > ul > a:hover {
 
 .intro p:first-of-type::first-letter,
 .character p:first-of-type::first-letter,
-.summary > section > div  > p:first-of-type::first-letter {
+.summary > section > div  > p:first-of-type::first-letter,
+#adaptations div p:first-of-type::first-letter {
     font-family: inheritance, serif;
-    color: #926d08;
+    color: #725608;
     text-transform: uppercase;
     margin-right: 0.5rem;
     text-shadow: 0 0 0.05rem #011724;
